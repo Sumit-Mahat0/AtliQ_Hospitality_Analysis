@@ -30,7 +30,7 @@ I worked with five key datasets, including:
 📍 Mumbai generates the highest revenue (₹661M), followed by Bangalore, Hyderabad & Delhi.  
 
  
-![Mumbai](https://github.com/Sumit-Mahat0/AtliQ_Hospitality_Analysis/blob/main/AtliQ%20Hospitality%20Analysis%20%20img/main.png)
+![Mumbai](https://github.com/Sumit-Mahat0/AtliQ_Hospitality_Analysis/blob/main/AtliQ%20Hospitality%20Analysis%20%20img/Mumbai.png)
 
 
 📍 AtliQ Exotica leads with ₹316M revenue, 57.2% occupancy & 24.4% cancellation rate.  
