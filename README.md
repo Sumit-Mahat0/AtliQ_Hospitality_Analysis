@@ -39,4 +39,4 @@ I worked with five key datasets, including:
 
 
 ## Live Dashboard
-For more details, access the live dashboard:[AtliQ Hospitality Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2VmYzVmMDUtZThkNi00NTA2LWFkNDgtNTY5NmQwOTExYzNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+For more details, access the live dashboard: [AtliQ Hospitality Analysis](https://app.powerbi.com/view?r=eyJrIjoiN2VmYzVmMDUtZThkNi00NTA2LWFkNDgtNTY5NmQwOTExYzNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
