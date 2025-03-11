@@ -3,7 +3,7 @@
 
 AtliQ Grands, a well-established player in the hospitality industry for over 20 years, has been facing a decline in market share and revenue due to increasing competition and ineffective decision-making. To tackle this challenge, the management decided to incorporate Business & Data Intelligence to drive data-backed decisions and optimize performance.   
 
-##📂 Data Used   
+📂 Data Used   
 I worked with five key datasets, including:   
 ✅ Dim Date – Date-related details   
 ✅ Dim Hotels – Hotel properties, categories (Luxury/Business), and locations    
@@ -11,22 +11,22 @@ I worked with five key datasets, including:
 ✅ Fact Bookings – Booking details (check-in/out dates, revenue, ratings, etc.)    
 ✅ Fact Aggregate Bookings – Room capacity, successful bookings, and utilization  
 
-##🔧 Process Followed    
+🔧 Process Followed    
 🔹 Data Cleaning & Transformation in Power Query (ensuring integrity & validation)   
 🔹 Data Modeling using Star Schema/Snowflake Schema for optimized relationships    
 🔹 Data Visualization & DAX Formulas for generating meaningful insights   
 
-##🛠 Tech Stack  
+🛠 Tech Stack  
 📌 Excel, Power BI, Power Query   
  
 
-##📊 Key Hospitality Metrics Learned   
+📊 Key Hospitality Metrics Learned   
 ✔ RevPAR = Total Revenue / Total Rooms Available  
 ✔ Occupancy % (Occ%) = Total Rooms Occupied / Total Rooms Available  
 ✔ ADR = Total Rooms Revenue / Number of Rooms Sold  
 ✔ Realization Rate = Daily Utilized Room Nights (DURN) / Daily Booked Room Nights (DBRN).  
 
-🔥## Key Insights from the Dashboard   
+🔥 Key Insights from the Dashboard   
 📍 Mumbai generates the highest revenue (₹661M), followed by Bangalore, Hyderabad & Delhi.  
 
  
