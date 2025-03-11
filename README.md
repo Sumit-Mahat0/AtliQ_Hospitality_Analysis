@@ -26,11 +26,11 @@ I worked with five key datasets, including:
 ✔ ADR = Total Rooms Revenue / Number of Rooms Sold  
 ✔ Realization Rate = Daily Utilized Room Nights (DURN) / Daily Booked Room Nights (DBRN).  
 
-##🔥 Key Insights from the Dashboard
+🔥## Key Insights from the Dashboard   
 📍 Mumbai generates the highest revenue (₹661M), followed by Bangalore, Hyderabad & Delhi.  
 
  
-[Mumbai](https://github.com/Sumit-Mahat0/AtliQ_Hospitality_Analysis/blob/main/AtliQ%20Hospitality%20Analysis%20%20img/main.png)
+![Mumbai](https://github.com/Sumit-Mahat0/AtliQ_Hospitality_Analysis/blob/main/AtliQ%20Hospitality%20Analysis%20%20img/main.png)
 
 
 📍 AtliQ Exotica leads with ₹316M revenue, 57.2% occupancy & 24.4% cancellation rate.  
